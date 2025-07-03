@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+
+  <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="SystemOS.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <SystemOS.Properties.Settings>
+            <setting name="FireBird_BD" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="FireBird_Servidor" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="FireBird_Porta" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="FireBird_Usuario" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="FireBird_Senha" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Tentativa" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="QuandoLiberarLogin" serializeAs="String">
+                <value />
+            </setting>
+        </SystemOS.Properties.Settings>
+    </userSettings>
+  <appSettings>
+    <add key="EPPlus:ExcelPackage.LicenseContext" value="NonCommercial" />
+  </appSettings>
+</configuration>
