@@ -1,4 +1,5 @@
-*.json binary 
-*.manifest binary 
-*.exe binary 
-*.dll binary 
+*.json binary
+*.json.deploy binary
+*.manifest binary
+*.exe binary
+*.dll binary

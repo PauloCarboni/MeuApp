@@ -1,5 +1,0 @@
-*.dll binary
-*.exe binary
-*.manifest binary
-*.application binary
-*.json binary
