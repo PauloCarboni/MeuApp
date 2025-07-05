@@ -754,7 +754,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>N2G6k2r93AsU6DB0zRf/Vr70RmPkPgC76Leftg4w3A0=</dsig:DigestValue>
+      <dsig:DigestValue>YhvbZV0aaR6m2oG3VpBOi+BS0eCFxwdaNafurNkt/pM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SystemOS.dll.config" size="1627">
